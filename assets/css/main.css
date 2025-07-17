@@ -1546,15 +1546,15 @@ section {
   height: 3px; /* Grosor */
   background-color: #000d14; /* Color oscuro */
   position: relative;
-  right: -1111px; /* Ajustá según lo que necesites */
-  bottom: -368px;  /* Ajustá según la altura deseada */
+  right: -810px; /* Ajustá según lo que necesites */
+  bottom: -408px;  /* Ajustá según la altura deseada */
   z-index: 999;
   border-radius: 3px; /* Opcional: bordes redondeados */
 }
 
 .barra-divisora-horizontal-blanca {
   width: 280px; /* Largo de la barra */
-  height: 2.5px; /* Grosor */
+  height: 2px; /* Grosor */
   background-color: white; /* Color oscuro */
   position: relative;
   right: 24px; /* Ajustá según lo que necesites */
