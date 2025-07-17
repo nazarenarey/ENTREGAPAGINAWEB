@@ -779,7 +779,7 @@ section {
 
 .gopro-titulos{
   padding-bottom: 30px;
-  padding-top: 100px ;
+  padding-top: 10px ;
 }
 
 .gopro-titulos h2 {
@@ -1557,7 +1557,7 @@ section {
   height: 2px; /* Grosor */
   background-color: white; /* Color oscuro */
   position: relative;
-  right: 24px; /* Ajustá según lo que necesites */
+  right: -1250px; /* Ajustá según lo que necesites */
   bottom: -530px;  /* Ajustá según la altura deseada */
   z-index: 999;
   border-radius: 3px; /* Opcional: bordes redondeados */
